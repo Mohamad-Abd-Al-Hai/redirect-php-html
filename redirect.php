@@ -1,6 +1,6 @@
 <?php
 // Redirect to https://example.com/
 echo "check";
-header("Location: https:youtube.com");
+header("Location: https://www.youtube.com/");
 exit();
 ?>
